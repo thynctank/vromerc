@@ -1,2 +1,3 @@
 unmap <C-f>
 set useletters=0
+set enable_vrome_key=<C-z>
